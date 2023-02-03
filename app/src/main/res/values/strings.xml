@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="app_id">a5eeb9e8d254e764d67b7cedc6fe5f5e</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="weeks_name">
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THR</item>
+        <item>FRI</item>
+        <item>SAT</item>
+        <item>SUN</item>
+
+    </string-array>
+</resources>
